@@ -1,4 +1,4 @@
-update=Mo 28 Nov 2016 17:44:34 CET
+update=Mo 28 Nov 2016 21:19:41 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=rfcom
+LibName31=SMA_edge/sma_edge
